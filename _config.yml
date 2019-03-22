@@ -2,7 +2,7 @@
 name: 'ChargeRocket Blog'
 description: 'Talking about all stuff ChargeRocket.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 baseurl: '/blog'
 disqus: 'demowebsite'
 email: 'tell-me-more@chargerocket.tech'
