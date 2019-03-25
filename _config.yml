@@ -4,8 +4,8 @@ description: 'Talking about all stuff ChargeRocket.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: '/blog'
-disqus: 'demowebsite'
 email: 'tell-me-more@chargerocket.tech'
+timezone: America/Los_Angeles
 
 include: ["_pages"]
 permalink: /:title/
