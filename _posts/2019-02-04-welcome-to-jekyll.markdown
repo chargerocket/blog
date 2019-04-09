@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to ChargeRocket's first blog post!"
+author: Gary
 categories: [ general ]
 image: assets/images/rocket-blast-off.jpg
 ---
