@@ -5,7 +5,7 @@ author: Gary
 categories: [ general ]
 image: assets/images/rocket-blast-off.jpg
 ---
-It seems pretty surreal as I sit here writing what will be our first post here at ChargeRocket. As I look back, this is something like my 5th business that I have started, and though the trepidation of launching a business isn't as much a cause of concern, the excitement is still there just as if it were my first. With ChargeRocket, the excitement is even more so, as I feel there is great promise in the mission and ultimate goal we are going to strive to fulfill. I feel the outlook is amazing and I would like to tell you why.
+It seems pretty surreal as I sit here writing what will be our first post here at ChargeRocket. As I look back, this is something like my 5th business that I have started, and though the trepidation of launching a business isn't as much a cause of concern, the excitement is still there just as if it were my first. With ChargeRocket, the excitement is even more so, as I feel there is great promise in the mission and ultimate goal we are striving to fulfill. I feel the outlook is amazing and I would like to tell you why.
 
 But first, a bit of a background of how things got started. Recently, I have been following the YouTube channel for [Dave Hakkens][dave-hakkens] of [Precious Plastic][precious-plastic] and what an inspiring and eye-opening experience it has been to see the amazing things Dave is doing. Please, if you get the chance, take a look at his channel. I have also been in the process of developing some electronic products for the past year to year and a half with some friends and now fellow business partners. 
 
