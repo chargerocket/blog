@@ -32,7 +32,15 @@ So, I know the "Maybe," and "Most Likely" and other categorization I used is not
 
 Also, it will not matter if your waste management facility will take PET 1 cups if that particular cup is covered with some kind of `contaminant`. And by contaminant, I'm not talking Plutonium or your neighbor's blood (and I REALLY don't want to know why your neighbor's blood is on that cup), although that is sure as all heck to qualify as a contaminant in every sense of the word, but I'm talking about mundane stuff like food. Yes, if said cup is covered with food and it's PET 1 and normally the facility recycles PET 1 then there is still a good chance it won't get recycled. Please read [this post][recycling-wrong] if this is a surprise as you are doing it wrong.
 
-More importantly, what about some of the plastic you have come across or is sitting in your home right now with no available RIC on the bottom? I speak of things like those Ziploc bags you have everywhere, storing all sorts of knick knacks. What is the RIC for Ziploc bags? Well, it depends, but if you are using [this][ziploc-material] one then it's a RIC of 4.
+More importantly, what about some of the plastic you have come across or is sitting in your home right now with no available RIC on the bottom? I speak of things like those Ziploc bags you have everywhere, storing all sorts of knick knacks. What is the RIC for Ziploc bags? Well, it depends, but if you are using [this][ziploc-material] one then it's a RIC of 4. Anyways, here are some other plastics and there codes that aren't so obvious:
+
+| Consumer Examples             | RIC                                           | 
+| ------------------------------|-----------------------------------------------|
+| Ziploc bags                   | Most are probably a 4                         | 
+| Plastic forks                 | Most are probably a 6                         |
+| Plastic gelato tasting spoon  | Most are probably a 6                         |
+| Plastic garbage bags          | Most are probably a 2 or 4                    |
+
 
 [recycling-wrong]: https://chargerocket.tech/blog/your-recycling-is-all-wrong/
 [ziploc-material]: https://www.whatsinsidescjohnson.com/us/en/brands/ziploc/ziploc-brand-freezer-bags
